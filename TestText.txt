@@ -1,0 +1,10 @@
+// p4g4, example of simple if and some comparisons
+create z := 7;
+create y := 3;
+create t ;
+tape
+{
+    if [ z ... y ] then {
+        cout y ;
+    } ;
+}
