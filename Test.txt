@@ -1,4 +1,5 @@
 // infinite loop until goto
+// test code
 create z := 4;
 create y := 1;
 create out ;
